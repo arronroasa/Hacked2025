@@ -1,2 +1,2 @@
-# CS Roadmap - Hacked2025 Project
+# CS Roadmap - HackED2025 Project
 Streamlining your CS career pathways
