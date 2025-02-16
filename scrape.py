@@ -68,7 +68,7 @@ def extract_code(course_name):
     return None
 
 def main():
-    url = 'https://apps.ualberta.ca/catalogue/course/cmput'
+    url = 'https://apps.ualberta.ca/catalogue/course/cmput' #   URL
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     course_dict = splitCourses(soup)
